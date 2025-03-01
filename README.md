@@ -35,12 +35,11 @@
 
 ## About Me
 
-- 🌱 **I’m currently learning:** React, Django, IoT projects, etc.  
+- 🌱 **I’m currently learning:** Machine learning, NLP, VLM, etc. 
 - 🔭 **I’m currently working on:** Building a machine learning model for embedded systems.  
 - 💬 **Ask me about:** Machine Learning, AI, Embedded Software, and Python.  
 - 📫 **How to reach me:** [ahmet.unln@gmail.com](mailto:ahmet.unln@gmail.com)  
-- 😄 **Pronouns:** He/Him  
-- ⚡ **Fun fact:** I believe in open-source collaboration and enjoy coffee-fueled coding sessions!
+
 
 ---
 
@@ -54,8 +53,8 @@
 - **Python, C, VHDL**  
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
-  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C"/>
+  <img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fimage.pngaaa.com%2F137%2F619137-middle.png&f=1&nofb=1&ipt=e719e328832f6cfb0db367eed4537e987ab2bc2e43db2f607d5af6ddcb838ff4&ipo=images" alt="Python"/>
+  <img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse4.mm.bing.net%2Fth%3Fid%3DOIP.-wK8kSbegCP7kdE8hVjRCQHaHk%26pid%3DApi&f=1&ipt=189e11d26c08abb22f858070bb6622b2138e0de1cce4a6d5b90c8578fc80ee83&ipo=images" alt="C"/>
   <img src="https://img.shields.io/badge/VHDL-000080?style=for-the-badge&logoColor=white" alt="VHDL"/>
   <img src="https://img.shields.io/badge/Embedded-Systems-9cf?style=for-the-badge" alt="Embedded Systems"/>
   <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" alt="Django"/>
