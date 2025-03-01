@@ -4,13 +4,12 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ahmet-ünalan-49343a251/) 
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white)](https://twitter.com/ahmetunalan3)
 
-**Yazılım Geliştiricisi** | **Open Source Aşığı** | **Teknoloji Meraklısı**
 
 ---
 
 ## 🚀 Hakkımda
 
-Ben bir Elektrik-elektronik Mühendisiyim ve kod yazarken dünyayı değiştirebileceğime inanıyorum.  
+Ben bir **Elektrik-Elektronik Mühendisliği** Öğrencisiyim ve kod yazarken dünyayı değiştirebileceğime inanıyorum.  
 Özellikle **Makine Öğrenmesi**, **Yapay Zeka** ve **Gömülü Yazılım** projeleri üzerine odaklanıyorum.  
 Sürekli öğrenmeyi seviyorum.
 
