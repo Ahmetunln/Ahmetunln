@@ -1,73 +1,28 @@
-# Merhaba, Ben [Ahmet Ünalan](https://github.com/Ahmetunln) 👋
+### Hi there 👋, Welcome!
 
-<p align="center">
-  <a href="https://github.com/Ahmetunln">
-    <img src="https://img.shields.io/github/followers/Ahmetunln?label=Takip%20Et&style=for-the-badge" alt="GitHub Followers"/>
-  </a>
-  <a href="https://www.linkedin.com/in/ahmet-ünalan-49343a251/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="https://twitter.com/ahmetunalan3">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/>
-  </a>
-</p>
+![I am Ahmet Ünalan](https://raw.githubusercontent.com/Ahmetunln/banner/main/img/ahmet-banner.png)
 
+Hello! 👋🏻 My name is **Ahmet Ünalan**. I am an Electrical-Electronics Engineer and a passionate coder who believes in changing the world through code.
 
+I am deeply interested in **Machine Learning**, **Artificial Intelligence** and **Embedded Software**. I love contributing to open-source projects and exploring cutting-edge technologies.
 
----
+Currently, I'm a **Yazılım Geliştiricisi | Open Source Aşığı | Teknoloji Meraklısı**.
 
-## 🚀 Hakkımda
+**Skills:**  
+Yazılım Geliştiricisi | Open Source Aşığı | Teknoloji Meraklısı
 
-Ben bir Elektrik-elektronik Mühendisiyim ve kod yazarken dünyayı değiştirebileceğime inanıyorum.  
-Özellikle **Makine Öğrenmesi**, **Yapay Zeka** ve **Gömülü Yazılım** projeleri üzerine odaklanıyorum.  
-Sürekli öğrenmeyi seviyorum.
+**Tools:**  
+[<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" height="40">](https://github.com/Ahmetunln)  
+[<img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C" height="40">](https://github.com/Ahmetunln)  
+[<img src="https://img.shields.io/badge/MATLAB-FF6F00?style=for-the-badge&logo=matlab&logoColor=white" alt="MATLAB" height="40">](https://github.com/Ahmetunln)  
+[<img src="https://img.shields.io/badge/VHDL-000080?style=for-the-badge&logo=hdl&logoColor=white" alt="VHDL" height="40">](https://github.com/Ahmetunln)
 
----
+- 🔭 I’m currently working on various embedded software and machine learning projects.  
+- 🌱 I’m currently learning new advancements in AI and embedded systems.  
+- 📫 How to reach me: **ahmet.unln@gmail.com**  
+- 😄 Pronouns: He/Him  
+- ⚡ Fun fact: I truly believe that every line of code has the power to change the world!
 
-## 💻 Teknolojiler & Araçlar
-
-### Programlama Dilleri
-<p align="center">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
-  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C"/>
-  <img src="https://img.shields.io/badge/MATLAB-FF6F00?style=for-the-badge&logo=matlab&logoColor=white" alt="MATLAB"/>
-  <img src="https://img.shields.io/badge/VHDL-000080?style=for-the-badge&logo=hdl&logoColor=white" alt="VHDL"/>
-</p>
-
-### Backend
-<p align="center">
-  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" alt="Django"/>
-</p>
-
-### Veritabanları
-<p align="center">
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
-</p>
-
-### Araçlar
-<p align="center">
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
-</p>
-
----
-
-## 📬 İletişim
-
-<p align="center">
-  <a href="mailto:ahmet.unln@gmail.com">
-    <img src="https://img.shields.io/badge/Email-ahmet.unln@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-  </a>
-  <a href="https://www.linkedin.com/in/ahmet-ünalan-49343a251/">
-    <img src="https://img.shields.io/badge/LinkedIn-Ahmet%20%C3%9Cnalan-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="https://twitter.com/ahmetunalan3">
-    <img src="https://img.shields.io/badge/Twitter-@ahmetunalan3-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/>
-  </a>
-</p>
-
----
-
-**Teşekkürler!** ❤️
-
-*"Kod yazmak, düşünceleri hayata geçirmenin en güçlü yoludur."*
+[<img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg" alt="GitHub" height="40">](https://github.com/Ahmetunln)  
+[<img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="LinkedIn" height="40">](https://www.linkedin.com/in/ahmet-ünalan-49343a251/)  
+[<img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="Twitter" height="40">](https://twitter.com/ahmetunalan3)
